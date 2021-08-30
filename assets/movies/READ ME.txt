@@ -1,0 +1,1 @@
+For Cutscenes, If you want the AVI to be a Small Size, Make the Audio a Seperate File as an OGG, Game is coded to run the Audio File with the Video. And then use a Video Compressor

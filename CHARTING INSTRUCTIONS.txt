@@ -1,0 +1,7 @@
+Step 1. Export your Song as a .WAV file (Make sure the .wav is lowercase when exported)
+Step 2. Move your Song into the Music Folder in Assets.
+Step 3. Open the Game and click on Create, Name the Chart the same name as the Song in the Music Folder.
+Step 4. Chart it!
+Step 5. Goto assets/charts/songList.txt and add your Song into the List.
+Step 6. Make Background Art in 1280x720 Resolution, Put it in assets/charts/bg/(song name).gif
+Step 7. Go into Freeplay and start Playing!

@@ -1,0 +1,4 @@
+Speed 50 | Offset 0
+Speed 100 | Offset 3500
+Speed 200 | Offset 9300
+Speed 400 | Offset 19600
